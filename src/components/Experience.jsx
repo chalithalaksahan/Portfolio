@@ -19,7 +19,7 @@ const Experience = () => {
       </motion.div>
 
       <div className="flex mt-20-col">
-
+         
       </div>
     </>
   )
